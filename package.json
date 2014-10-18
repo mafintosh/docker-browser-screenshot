@@ -1,0 +1,12 @@
+{
+  "name": "docker-browser-screenshot",
+  "version": "1.0.0",
+  "description": "Take a screenshot of a website / render some html",
+  "main": "index.js",
+  "author": "Mathias Buus",
+  "license": "MIT",
+  "dependencies": {
+    "concat-stream": "^1.4.6",
+    "phantom-render-stream": "^1.2.0"
+  }
+}
