@@ -9,7 +9,7 @@ docker pull mafintosh/docker-browser-screenshot
 ## Usage
 
 ```
-echo http://google.com | docker run -i mafintosh/browser-screenshot > google.png
+echo http://google.com | docker run -i mafintosh/docker-browser-screenshot > google.png
 ```
 
 Or stream in some html
