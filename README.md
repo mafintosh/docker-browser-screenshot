@@ -3,7 +3,7 @@
 Take a screenshot of a website / render some html
 
 ```
-docker pull mafintosh/browser-screenshot
+docker pull mafintosh/docker-browser-screenshot
 ```
 
 ## Usage
